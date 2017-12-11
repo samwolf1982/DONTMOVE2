@@ -1,0 +1,5 @@
+cd ~/.PhpStorm[version]
+rm config/eval/PhpStorm[version].evaluation.key
+rm config/options/options.xml
+cd ~/.java/.userPrefs/jetbrains
+rm -rf phpstorm
